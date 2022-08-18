@@ -1,6 +1,10 @@
 ![Yunus' github stats](https://github-readme-stats.vercel.app/api?username=yunusp)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusp&show_icons=true&locale=en" alt="omseervi098" /></p>
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs?username=yunusp&show_icons=true&locale=en)
+
+
+
+
 ## A prayer to our Lord and Saviour Haskell:
 
 ```
